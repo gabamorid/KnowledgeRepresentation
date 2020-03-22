@@ -11,7 +11,7 @@ L2 = [5, 4, 3]
 
 3.It would be able to indicate which characteristic makes a predicate not reversible.
 
-A: Maybe when the result it ins't of the same type of the other arguments, like in the predicate num_elements. We have a list agurment and the result it's a number. 
+A: Maybe when the result it ins't of the same type of the other arguments, such as in the predicate num_elements. We have a list agurment and the result it's a number. 
 
 4.As we have seen in class, the reversible use of predicates is a very powerful feature of Prolog. Make use of a combination of the concatenate and invert predicates in which this technique is used.
 
