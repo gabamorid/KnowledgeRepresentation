@@ -1,6 +1,8 @@
 1.Would it be possible using the concatenated predicate to get any pair of consecutive numbers from a list? If so, How would you have to use the concatenated predicate to get it?
 
-A: I think it's posible, but I don't know how to do.
+A: Yes. 
+
+append( ,[E1,E2| ], [1,2,3,4,5]).
 
 2.Is it possible to make a reversible use of the invert predicate? If not possible, could you justify why?
 
@@ -11,8 +13,8 @@ L2 = [5, 4, 3]
 
 3.It would be able to indicate which characteristic makes a predicate not reversible.
 
-A: Maybe when the result it ins't of the same type of the other arguments, such as in the predicate num_elements. We have a list agurment and the result it's a number. 
+A: When we use the operation "is".
 
 4.As we have seen in class, the reversible use of predicates is a very powerful feature of Prolog. Make use of a combination of the concatenate and invert predicates in which this technique is used.
 
-A: I can't do.
+A:
